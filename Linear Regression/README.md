@@ -6,3 +6,6 @@ In this segment I will be going over the basics of linear regression. I will be 
 5. How to improve a linear regression model?
 6. All the associated metrics for linear regression
 7. Feature and feature selection
+
+
+Note: For this I will using the advertising dataset used in the book Introduction to Statistical Learning.
