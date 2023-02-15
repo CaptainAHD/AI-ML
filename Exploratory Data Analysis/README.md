@@ -1,0 +1,1 @@
+In this notebook I will I will be exploring data to understand it and explain how to do it. 
